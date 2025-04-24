@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "helloworld"
-echo "hello sai"
+echo "helloworld" > world.txt
+echo "hello sai" >> world.txt
