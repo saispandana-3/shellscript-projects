@@ -1,3 +1,3 @@
 #!/bin/bash
-cut -d : -f1 /etc/passwd >> users.txt
+cut -d : -f1 /etc/passwd | grep root >> users1.txt
 
