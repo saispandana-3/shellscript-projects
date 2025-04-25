@@ -6,5 +6,5 @@ then
 echo "high disk usage
 else
 echo "perfect"
-
+fi
 
