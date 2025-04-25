@@ -1,6 +1,6 @@
-#!/bin/bash
+i#!/bin/bash
 echo "enter file name: "
-read file
+file=$1
 if [ -e "$file" ]
 then
 echo " $file exists "
